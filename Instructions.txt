@@ -3,9 +3,13 @@ LAB DESCRIPTION
 =================
 Heroku additions
 add Procfile with the contents
+web: node index.js
+
+OR
 
 web: npm start
 
+and modify package.json scripts line
 package.json
 {
   "name": "app",
