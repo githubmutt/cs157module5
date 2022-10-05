@@ -1,0 +1,33 @@
+=================
+LAB DESCRIPTION
+=================
+An Employee Management system/portal is a typical component any medium
+to large organization. It typically consists of a system that accesses
+a database that holds information about employees. The employee management
+app in this lab allows a user to list, create, modify and delete employee
+records using an intuitive user interface (CRUD operations).
+
+Your job is to build the CRUD API endpoints using Express that will allow
+the front-end to function. The front-end and some of the server-side has
+already been done for you therefore, there's no need to modify any of the
+existing HTML/code on the client (index.html and script.js).
+
+You will need to use API testing tool to test/debug your endpoint. All
+details for each endpoint and validation you need to perform on the data
+will be included in the comments for each endpoint.
+
+============
+INSTRUCTIONS
+============
+1. Fork this project to your REPL.it account
+
+2. Follow the instructions included as comments beginning on Part 0
+   in the index.js file. Test your endpoints using a testing tool such
+   as req bin. This will significantly reduce your debugging time.
+
+
+==============
+HELP RESOURCES
+==============
+Express Reference - https://ilearn.laccd.edu/courses/202867/pages/module-5-express-reference
+CRUD with Express - https://ilearn.laccd.edu/courses/202867/pages/module-5-and-6-crud-with-express
