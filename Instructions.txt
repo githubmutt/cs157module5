@@ -8,7 +8,7 @@ web: npm start
 
 in index.js
 change the listening port to
-
+app.listen(process.env.PORT || 3000, () => console.log('server started'));
 
 
 =================
