@@ -6,6 +6,21 @@ add Procfile with the contents
 
 web: npm start
 
+package.json
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {"start" : "node index.js"},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest"
+  }
+}
+
 in index.js
 change the listening port to
 app.listen(process.env.PORT || 3000, () => console.log('server started'));
