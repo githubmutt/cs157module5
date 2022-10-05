@@ -1,6 +1,19 @@
 =================
 LAB DESCRIPTION
 =================
+Heroku additions
+add Procfile with the contents
+
+web: npm start
+
+in index.js
+change the listening port to
+
+
+
+=================
+
+
 An Employee Management system/portal is a typical component any medium
 to large organization. It typically consists of a system that accesses
 a database that holds information about employees. The employee management
