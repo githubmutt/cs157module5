@@ -32,8 +32,15 @@ var employeeData = [
   email: "don.hector@losamigos.com",
   address: "4260 Isleta Blvd, Albuquerque, NM 87045",
   phone: "505-455-1797"
-}
+},
 
+{
+  id: 30,
+  name: "Julia Juan",
+  email: "julia.juang@lacitycollege.edu",
+  address: "42 Gibson Drive, Alhambra, CA 90029",
+  phone: "515-955-1897"
+}
 
 
 ];
